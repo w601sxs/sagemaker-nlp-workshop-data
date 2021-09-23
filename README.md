@@ -6,7 +6,9 @@ Instructions for the following labs are in the notebooks. Make sure you see the 
 - Lab 2 : Train using Amazon Comprehend
 - Lab 3 : Train using a built-in algorithm on SageMaker
 - Lab 4 : Train using a custom Script on SageMaker
-- Lab 5 : Using SageMaker Pipelines for model comparison
+- Lab 5 : Using SageMaker Pipelines for model comparison 
+
+> Note that Labs 1 through 4 are notebooks in the main workshop folder, and Lab 5 is a folder!
 
 ## Getting Started
 
