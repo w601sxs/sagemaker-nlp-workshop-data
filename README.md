@@ -90,9 +90,9 @@ If the AWS Account has been provisioned by your AWS Instructor, follow the next 
 
 8. In the terminal, type the following command:
 
-git clone https://github.com/w601sxs/ppa-workshop-data.git
+git clone https://github.com/w601sxs/sagemaker-nlp-workshop-data.git
 
-9. After completion of step 8 you will have ppa-workshop-data folder created in left panel of the studio:
+9. After completion of step 8 you will have sagemaker-nlp-workshop-data folder created in left panel of the studio:
 
 10. All labs are placed inside the "workshop" folder, and you can get started with Lab 1
 
